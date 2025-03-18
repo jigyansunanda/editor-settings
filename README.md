@@ -10,7 +10,7 @@ Windows
 
 ```
 {
-    "shell_cmd": "go run \"${file}\" < input.txt > output.txt 2>&1",
+    "shell_cmd": "go run \"${file}\" < .\\input.txt > .\\output.txt 2>&1",
     "selector": "source.go"
 }
 ```
