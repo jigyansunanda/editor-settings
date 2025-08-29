@@ -1,6 +1,6 @@
 {
-  "ui_font_size": 18,
-  "buffer_font_size": 16,
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
   "theme": {
     "mode": "system",
     "light": "One Light",
@@ -11,26 +11,23 @@
     "metrics": false
   },
   "auto_update": true,
-  "buffer_font_family": "JetBrains Mono",
-  "buffer_line_height": { "custom": 1.9 },
-  // "buffer_font_weight": 600,
   "show_wrap_guides": false,
   "scrollbar": {
     "show": "always"
   },
   "tab_bar": {
     "show": true,
-    "show_nav_history_buttons": true
+    "show_nav_history_buttons": false
   },
   "tabs": {
     "close_position": "right",
     "file_icons": true,
-    "git_status": false
+    "git_status": true
   },
   "format_on_save": "on",
   "indent_guides": {
-    "enabled": true,
-    "coloring": "indent_aware",
-    "background_coloring": "indent_aware"
-  }
+    "enabled": false
+  },
+  "show_edit_predictions": false,
+  "show_completions_on_input": true
 }
