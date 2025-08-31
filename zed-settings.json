@@ -29,5 +29,11 @@
     "enabled": false
   },
   "show_edit_predictions": false,
-  "show_completions_on_input": true
+  "show_completions_on_input": true,
+  "toolbar": {
+    "quick_actions": false,
+    "selections_menu": false,
+    "code_actions": false,
+    "breadcrumbs": false
+  }
 }
