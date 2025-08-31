@@ -35,5 +35,6 @@
     "selections_menu": false,
     "code_actions": false,
     "breadcrumbs": false
-  }
+  },
+  "inline_code_actions": true
 }
